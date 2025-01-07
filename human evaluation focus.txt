@@ -1,0 +1,19 @@
+- **Structural Consistency**: Whether the sentence structure of the parallel sentences is consistent, and whether the grammatical structure and word choices across sentences are unified.
+
+  Evaluation focus: The structure of each clause should be consistent. For example, the arrangement of verbs, subjects, and objects should remain the same. The length and rhythm of the sentences should be balanced, without significant differences in sentence length.
+
+- **Content relevance**: Whether the content of each clause in the parallel sentence is interconnected and revolves around a central theme.
+
+  Evaluation focus: The content between clauses should be logically linked, avoiding disconnection; each clause should contribute to the core idea or main theme of the sentence.
+
+- **Emotional or ideological progression**: Whether the parallel sentence demonstrates a progression of emotion or ideas, with clear development from surface to depth.
+
+  Evaluation focus: The ideas in each clause should progress in a deepening manner, enhancing the emotional impact of the sentence. Repetitive or flat expressions should be avoided, and there should be a clear emotional or ideological development throughout.
+
+- **Creativity**: Refers to the originality of the statement, distinguishing fresh ideas from overused concepts.
+
+  Evaluation focus: Whether the sentence introduces novel perspectives and creative ideas, avoiding clichés; whether it challenges conventional thought patterns and displays a unique linguistic style.
+
+- **Vividness of language**: Whether the language of the parallel sentence is vivid and expressive, and whether it can enhance its impact through vivid descriptions or effective rhetorical techniques.
+
+  Evaluation focus: Whether the vocabulary used is rich and varied, with appropriate rhetorical devices (such as metaphors, exaggeration, etc.) that enhance the expressive effect; whether the imagery and emotional resonance are strong enough to engage and move the reader or listener.
